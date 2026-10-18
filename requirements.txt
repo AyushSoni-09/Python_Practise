@@ -1,0 +1,4 @@
+numpy==1.26.1
+pandas
+jupyterlab==4.2.0
+notebook==7.2.0
